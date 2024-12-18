@@ -1,0 +1,100 @@
+{
+  "MOCK_TASKS" : [
+    {
+      "id": 1,
+      "title": "Finish React Native Project",
+      "description": "Complete the task management app.",
+      "priority": "High",
+      "dueDate": "Today",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "title": "Team Meeting",
+      "description": "Discuss project updates.",
+      "priority": "Medium",
+      "dueDate": "This Week",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "title": "Code Review",
+      "description": "Review PRs from team members.",
+      "priority": "Low",
+      "dueDate": "Overdue",
+      "status": "Completed"
+    },
+    {
+      "id": 4,
+      "title": "Prepare Presentation",
+      "description": "Prepare slides for the client presentation.",
+      "priority": "High",
+      "dueDate": "Today",
+      "status": "In Progress"
+    },
+    {
+      "id": 5,
+      "title": "Repair Washing Machine",
+      "description": "Call the Mechanic and resolve the issue",
+      "priority": "High",
+      "dueDate": "Today",
+      "status": "Pending"
+    },
+    {
+      "id": 6,
+      "title": "Call the Interviewer",
+      "description": "Call the Interviewer and ask for your Job status",
+      "priority": "Low",
+      "dueDate": "Today",
+      "status": "In Progress"
+    },
+    {
+      "id": 7,
+      "title": "Do a Sugar Test",
+      "description": "",
+      "priority": "High",
+      "dueDate": "Overdue",
+      "status": "Completed"
+    },
+    {
+      "id": 8,
+      "title": "Buy Groceries",
+      "description": "Prepare a list and visit DMart",
+      "priority": "Medium",
+      "dueDate": "Today",
+      "status": "In Progress"
+    },
+    {
+      "id": 9,
+      "title": "Visit Your Aunt",
+      "description": "Call Aunt and inform her that you are visitng her",
+      "priority": "High",
+      "dueDate": "Overdue",
+      "status": "Pending"
+    },
+    {
+      "id": 10,
+      "title": "But Dog Food for Shiro",
+      "description":"",
+      "priority": "Low",
+      "dueDate": "This Week",
+      "status": "In Progress"
+    },
+    {
+      "id": 11,
+      "title": "Pay Internet Bill",
+      "description": "Check the Bill Amount before paying",
+      "priority": "Medium",
+      "dueDate": "This Week",
+      "status": "Pending"
+    },
+    {
+      "id": 12,
+      "title": "Submit Your Assignment",
+      "description": "Submit Your Assignment on 17th",
+      "priority": "High",
+      "dueDate": "Today",
+      "status": "Completed"
+    }
+  ]
+}
